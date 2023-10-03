@@ -55,6 +55,7 @@ public class Base {
 	  public static void dropDownvalue(By by,String name) { 
 		  Select select = new
           Select(driver.findElement(by)); select.selectByVisibleText(name);
+		  System.out.println("test for jenkins");
 	 }
 
 
