@@ -55,8 +55,9 @@ public class Base {
 	  public static void dropDownvalue(By by,String name) { 
 		  Select select = new
           Select(driver.findElement(by)); select.selectByVisibleText(name);
-		  System.out.println("test conflicfor jenkins");
+		  System.out.println("test conflict for jenkins");
 		  System.out.println("just conflict checkout");
+		  System.out.println("for example-------------");
 
 	 }
 
