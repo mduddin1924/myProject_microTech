@@ -59,6 +59,10 @@ public class Base {
 		  System.out.println("just conflict checkout");
 		  System.out.println("for example-------------");
 
+		  System.out.println("test conflict for jenkins");
+		  System.out.println("just conflict checkout");
+		  System.out.println("for example-------------");
+
 	 }
 
 
