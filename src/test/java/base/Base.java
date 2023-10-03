@@ -63,5 +63,13 @@ public class Base {
 
     }
 
+    public static void print() {
+        System.out.println("conflict");
+    }
+
+    public static void print1() {
+        System.out.println("conflict");
+    }
+
 
 }
