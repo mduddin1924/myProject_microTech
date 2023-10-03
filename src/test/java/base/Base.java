@@ -56,6 +56,7 @@ public class Base {
 		  Select select = new
           Select(driver.findElement(by)); select.selectByVisibleText(name);
 		  System.out.println("test for jenkins");
+		  System.out.println("just checkout");
 	 }
 
 
