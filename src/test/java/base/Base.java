@@ -62,6 +62,9 @@ public class Base {
 
 
     }
+    public static void print(){
+        System.out.println("duplicate");
+    }
 
 
 }
